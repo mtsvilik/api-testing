@@ -3,7 +3,7 @@ package com.solvd.apitesting;
 import com.qaprosoft.carina.core.foundation.api.http.HttpResponseStatusType;
 import org.testng.annotations.Test;
 
-public class ApiTests {
+public class ApiTest {
 
     @Test(testName = "check create repo method")
     public void checkPostRepoTest() {
