@@ -6,7 +6,7 @@
 
     <groupId>com.solvd</groupId>
     <artifactId>api-testing</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>21.0-SNAPSHOT</version>
 
     <properties>
         <carina-api-version>8.0.0</carina-api-version>
