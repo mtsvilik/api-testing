@@ -1,11 +1,11 @@
 {
   "id": 559280544,
   "node_id": "R_kgDOIVXxoA",
-  "name": "test-repo",
+  "name": "${repoName}",
   "full_name": "mtsvilik/test-repo",
   "private": false,
   "owner": {
-    "login": "mtsvilik",
+    "login": "${userName}",
     "id": 110671764,
     "node_id": "U_kgDOBpi3lA",
     "avatar_url": "https://avatars.githubusercontent.com/u/110671764?v=4",
