@@ -1,3 +1,5 @@
 {
+  "name": "${repoName}",
+  "login": "${userName}",
   "description": "${description}"
 }

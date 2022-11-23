@@ -1,5 +1,5 @@
 {
-    "login": "mtsvilik",
+    "login": "${userName}",
     "id": 110671764,
     "node_id": "U_kgDOBpi3lA",
     "avatar_url": "https://avatars.githubusercontent.com/u/110671764?v=4",

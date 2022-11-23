@@ -5,8 +5,8 @@ import com.qaprosoft.carina.core.foundation.utils.Configuration;
 
 public class PostRepoMethod extends AbstractApiMethodV2 {
 
-    public PostRepoMethod(String rqPath, String rsPath, String propertiesPath) {
-        super(rqPath, rsPath, propertiesPath);
+    public PostRepoMethod(String rqPath, String rsPath) {
+        super(rqPath, rsPath);
         replaceUrlPlaceholder("base_url", Configuration.getEnvArg("url"));
     }
 }

@@ -8,5 +8,6 @@ public class GetUserMethod extends AbstractApiMethodV2 {
     public GetUserMethod(String rqPath, String rsPath) {
         super(rqPath, rsPath);
         replaceUrlPlaceholder("base_url", Configuration.getEnvArg("url"));
+        replaceUrlPlaceholder("username", "mtsvilik");
     }
 }
